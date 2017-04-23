@@ -1,7 +1,7 @@
-#frontend-nanodegree Home of NBA Teams
+# frontend-nanodegree Home of NBA Teams
 
 
-##HOW TO RUN
+## HOW TO RUN
 ### portfolio
 1、Download and extract the files. <br>
 2、Open "index.html" with your browser.
@@ -15,7 +15,7 @@
 1、inline style.css. <br>
 2、Add async attribute to all script tags. <br>
 ### pizza main.js
-The key is to avoid generating variable and computing inside the for...in loop.
+The key is to avoid generating variable and computing inside the for...in loop. <br>
 1、In function "updatePositions": <br>
 + move the phase variable outside the loop.
 + store the result of "document.body.scrollTop / 1250" outside the loop.
