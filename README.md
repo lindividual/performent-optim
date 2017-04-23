@@ -4,7 +4,8 @@
 ## HOW TO RUN
 ### Portfolio
 1、Download and extract the files. <br>
-2、Open "index.html" with your browser.
+2、Open "index.html" with your browser.<br>
+3、add media to the link tag of print.ss.<br>
 
 ### Pizzas
 1、Download and extract the files. <br>
