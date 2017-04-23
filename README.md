@@ -1,4 +1,4 @@
-# frontend-nanodegree Home of NBA Teams
+# frontend-nanodegree Website optimization
 
 
 ## HOW TO RUN
