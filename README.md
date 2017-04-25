@@ -5,7 +5,6 @@
 ### Portfolio
 1、Download and extract the files. <br>
 2、Open "index.html" with your browser.<br>
-3、add media to the link tag of print.ss.<br>
 
 ### Pizzas
 1、Download and extract the files. <br>
@@ -15,6 +14,8 @@
 ### /index.html
 1、inline style.css. <br>
 2、Add async attribute to all script tags. <br>
+3、add media to the link tag of print.ss.<br>
+4、compress the images
 ### /views/js/main.js
 The key is to avoid generating variable and computing inside the for...in loop. <br>
 1、In function "updatePositions": <br>
