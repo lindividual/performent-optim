@@ -21,5 +21,6 @@ The key is to avoid generating variable and computing inside the for...in loop. 
 1、In function "updatePositions": <br>
 + move the phase variable outside the loop.
 + store the result of "document.body.scrollTop / 1250" outside the loop.<br>
+
 2、In function "changePizzaSizes": <br>
 + move allPizzas, dx, newwidth variable outside the loop.
